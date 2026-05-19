@@ -1,0 +1,9 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: 📝 Code of Conduct
+    url: https://github.com/f5devcentral/.github/blob/main/CODE_OF_CONDUCT.md
+    about: F5 DevCentral follows the Contributor Covenant Code of Conduct to ensure a safe and inclusive community.
+  - name: 💬 F5 DevCentral Community
+    url: https://community.f5.com
+    about: For questions, discussion, and broader F5 community engagement, visit the F5 DevCentral community forum.
