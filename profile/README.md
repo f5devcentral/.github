@@ -20,8 +20,8 @@ VISUAL ASSETS (referenced below, source separately):
 ==============================================================================
 -->
 
-![F5 DevCentral](profile/banner.png#gh-light-mode-only)
-![F5 DevCentral](profile/banner-dark.png#gh-dark-mode-only)
+![F5 DevCentral](banner.png#gh-light-mode-only)
+![F5 DevCentral](banner-dark.png#gh-dark-mode-only)
 
 # F5 DevCentral on GitHub
 
