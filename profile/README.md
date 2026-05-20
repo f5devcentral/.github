@@ -35,19 +35,19 @@ If you're looking for *F5 Open Source code*, it lives under the [`F5, Inc.`](htt
 
 The GitHub side of f5devcentral is one neighborhood of a much larger community.
 
-**[community.f5.com](https://community.f5.com)** is where most F5 community discussion happens — articles, tutorials, Q&A, and longer-form conversations across the full F5 portfolio. Founded in 2003, DevCentral predates this GitHub org by quite a bit and remains the primary hub for F5 community engagement.
+**[community.f5.com](https://community.f5.com)** is where most F5 community discussion happens. Articles, tutorials, Q&A, and longer-form conversations across the full F5 portfolio. Founded in 2003, DevCentral predates this GitHub org by quite a bit and remains the primary hub for F5 community engagement.
 
-If you have a question that spans multiple projects, isn't tied to a specific repo, or is more "how do people generally do X with F5?" than "is this code broken?" — community.f5.com is the better starting point.
+If you have a question that spans multiple projects, isn't tied to a specific repo, or is more "how do people generally do X with F5?" than "is this code broken?", community.f5.com is the better starting point.
 
 ## Contributing
 
 We welcome contributions to any project in the f5devcentral organization. Each repository follows the same baseline standards:
 
-- **Code of Conduct** — see [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
-- **Contributing guidelines** — see [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- **F5 Contributor License Agreement (CLA)** — required for all contributions; see [the F5 CLA](https://github.com/f5/f5-cla/blob/main/docs/f5_cla.md)
-- **Security policy** — see [`SECURITY.md`](SECURITY.md)
-- **Support channels** — see [`SUPPORT.md`](SUPPORT.md)
+- **Code of Conduct** see [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
+- **Contributing guidelines** see [`CONTRIBUTING.md`](CONTRIBUTING.md)
+- **F5 Contributor License Agreement (CLA)** required for all contributions; see [the F5 CLA](https://github.com/f5/f5-cla/blob/main/docs/f5_cla.md)
+- **Security policy** see [`SECURITY.md`](SECURITY.md)
+- **Support channels** see [`SUPPORT.md`](SUPPORT.md)
 Individual projects may publish their own contributing guidance with project-specific details; when they do, those override the org-wide defaults you find here.
 
 ## License
