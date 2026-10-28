@@ -3,6 +3,13 @@
 F5 DevCentral organization landing page
 This README renders at https://github.com/f5devcentral
 Edits here change the public face of the org. Test in a fork before merging.
+
+LINKS AND IMAGES: this file renders on the org page, not inside the repo, so
+relative paths (e.g. CODE_OF_CONDUCT.md, banner.png) resolve against
+github.com/f5devcentral/ and 404. Always use absolute URLs into the
+.github repo. Use HEAD rather than a branch name so links survive a
+default-branch rename.
+
 VISUAL ASSETS (referenced below, source separately):
   Banner image:
     Path:        profile/banner.png (or banner-dark.png for dark mode)
@@ -20,8 +27,10 @@ VISUAL ASSETS (referenced below, source separately):
 ==============================================================================
 -->
 
-![F5 DevCentral](banner.png#gh-light-mode-only)
-![F5 DevCentral](banner-dark.png#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f5devcentral/.github/HEAD/profile/banner-dark.png">
+  <img alt="F5 DevCentral" src="https://raw.githubusercontent.com/f5devcentral/.github/HEAD/profile/banner.png">
+</picture>
 
 # F5 DevCentral on GitHub
 
@@ -43,11 +52,12 @@ If you have a question that spans multiple projects, isn't tied to a specific re
 
 We welcome contributions to any project in the f5devcentral organization. Each repository follows the same baseline standards:
 
-- **Code of Conduct** — see [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
-- **Contributing guidelines** — see [`CONTRIBUTING.md`](CONTRIBUTING.md)
+- **Code of Conduct** — see [`CODE_OF_CONDUCT.md`](https://github.com/f5devcentral/.github/blob/HEAD/CODE_OF_CONDUCT.md)
+- **Contributing guidelines** — see [`CONTRIBUTING.md`](https://github.com/f5devcentral/.github/blob/HEAD/CONTRIBUTING.md)
 - **F5 Contributor License Agreement (CLA)** — required for all contributions; see [the F5 CLA](https://github.com/f5/f5-cla/blob/main/docs/f5_cla.md)
-- **Security policy** — see [`SECURITY.md`](SECURITY.md)
-- **Support channels** — see [`SUPPORT.md`](SUPPORT.md)
+- **Security policy** — see [`SECURITY.md`](https://github.com/f5devcentral/.github/blob/HEAD/SECURITY.md)
+- **Support channels** — see [`SUPPORT.md`](https://github.com/f5devcentral/.github/blob/HEAD/SUPPORT.md)
+
 Individual projects may publish their own contributing guidance with project-specific details; when they do, those override the org-wide defaults you find here.
 
 ## License
