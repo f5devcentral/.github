@@ -20,8 +20,8 @@ VISUAL ASSETS (referenced below, source separately):
 ==============================================================================
 -->
 
-![F5 DevCentral](banner.png#gh-light-mode-only)
-![F5 DevCentral](banner-dark.png#gh-dark-mode-only)
+![F5 DevCentral](https://raw.githubusercontent.com/f5devcentral/.github/main/profile/banner.png#gh-light-mode-only)
+![F5 DevCentral](https://raw.githubusercontent.com/f5devcentral/.github/main/profile/banner-dark.png#gh-dark-mode-only)
 
 # F5 DevCentral on GitHub
 
@@ -43,11 +43,12 @@ If you have a question that spans multiple projects, isn't tied to a specific re
 
 We welcome contributions to any project in the f5devcentral organization. Each repository follows the same baseline standards:
 
-- **Code of Conduct** see [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
-- **Contributing guidelines** see [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- **F5 Contributor License Agreement (CLA)** required for all contributions; see [the F5 CLA](https://github.com/f5/f5-cla/blob/main/docs/f5_cla.md)
-- **Security policy** see [`SECURITY.md`](SECURITY.md)
-- **Support channels** see [`SUPPORT.md`](SUPPORT.md)
+- **Code of Conduct** - see [`CODE_OF_CONDUCT.md`](https://github.com/f5devcentral/.github/blob/main/CODE_OF_CONDUCT.md)
+- **Contributing guidelines** - see [`CONTRIBUTING.md`](https://github.com/f5devcentral/.github/blob/main/CONTRIBUTING.md)
+- **F5 Contributor License Agreement (CLA)** - required for all contributions; see [the F5 CLA](https://github.com/f5/f5-cla/blob/main/docs/f5_cla.md)
+- **Security policy** - see [`SECURITY.md`](https://github.com/f5devcentral/.github/blob/main/SECURITY.md)
+- **Support channels** - see [`SUPPORT.md`](https://github.com/f5devcentral/.github/blob/main/SUPPORT.md)
+
 Individual projects may publish their own contributing guidance with project-specific details; when they do, those override the org-wide defaults you find here.
 
 ## License
